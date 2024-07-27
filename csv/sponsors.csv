@@ -1,42 +1,72 @@
 id,slug,name,tier,sort_order,description,url
-1,leinenkugels,Jacob Leinenkugel Brewing Company,2.0,201.0,,https://www.leinie.com/
-2,schells-brewery,August Schell's Brewing Company,3.0,307.0,,http://schellsbrewery.com/
-3,summit-brewing,Summit Brewing Company,3.0,303.0,,http://www.summitbrewing.com/
-4,kemps,Kemps,3.0,306.0,,https://www.kemps.com/
-5,cub-foods,Cub Foods,2.0,204.0,,https://www.cub.com/
-6,sleep-number,Sleep Number,1.0,101.0,,https://www.sleepnumber.com/
-7,bremer-bank,Bremer Bank,2.0,203.0,,https://bremer.com/
-8,xfinity,Xfinity,3.0,301.0,,https://www.xfinity.com/
+1,leinenkugels,Jacob Leinenkugel Brewing Company,2.0,200.0,,https://www.leinie.com/
+2,schells-brewery,August Schell's Brewing Company,3.0,330.0,,http://schellsbrewery.com/
+3,summit-brewing,Summit Brewing Company,3.0,320.0,,http://www.summitbrewing.com/
+4,kemps,Kemps,4.0,425.0,,https://www.kemps.com/
+5,cub-foods,Cub Foods,4.0,440.0,,https://www.cub.com/
+6,sleep-number,Sleep Number,1.0,100.0,,https://www.sleepnumber.com/
+7,bremer-bank,Bremer Bank,2.0,201.0,,https://bremer.com/
+8,xfinity,Xfinity,2.0,203.0,,https://www.xfinity.com/
 9,centurylink,CenturyLink,,,,http://www.centurylink.com/
-10,dish,DISH,3.0,310.0,,https://www.dish.com/
+10,dish,DISH,4.0,415.0,,https://www.dish.com/
 11,mazda,Mazda,2.0,202.0,,https://www.mazdausa.com/
-13,green-mill,Green Mill Restaurant,5.0,504.0,,https://www.greenmill.com/
-15,cal-spas,Cal Spas,3.0,302.0,,http://calspas.com/
-16,leaf-filter,Leaf Filter,4.0,401.0,,https://www.leaffilter.com/
+12,m-health-fairview,M Health Fairview,,,,https://mhealthfairview.org/
+13,green-mill,Green Mill Restaurant,4.0,420.0,,https://www.greenmill.com/
+15,cal-spas,Cal Spas,3.0,300.0,,http://calspas.com/
+16,leaf-filter,Leaf Filter,3.0,355.0,,https://www.leaffilter.com/
 17,sams-club,Sam’s Club,,,,https://www.samsclub.com/
-18,treasure-island-resort-casino,Treasure Island Resort & Casino,3.0,309.0,,http://www.ticasino.com/
+18,treasure-island-resort-casino,Treasure Island Resort & Casino,3.0,340.0,,http://www.ticasino.com/
 19,beech-nut,Beech-Nut,,,,http://www.beechnut.com/
-20,good-health-saunas,Good Health Saunas,3.0,311.0,,https://www.goodhealthsaunas.com/
+20,good-health-saunas,Good Health Saunas,3.0,345.0,,https://www.goodhealthsaunas.com/
 21,firestone,Firestone,,,,http://www.firestone.com/
-23,minnesota-farm-bureau,Minnesota Farm Bureau Foundation,6.0,608.0,,http://www.fbmn.org
-24,mlba,Minnesota Livestock Breeders Association,6.0,609.0,,http://mnlivestockbreeders.org/
-27,humana,Humana,3.0,308.0,,https://www.humana.com
+22,93x,93x,,,,http://www.93x.com/
+23,minnesota-farm-bureau,Minnesota Farm Bureau Foundation,,,,http://www.fbmn.org
+24,mlba,Minnesota Livestock Breeders Association,,,,http://mnlivestockbreeders.org/
+25,mattress-firm,Mattress Firm,3.0,310.0,,https://www.mattressfirm.com/
+26,aarp,AARP,3.0,360.0,,https://www.aarp.org/
+27,humana,Humana,3.0,365.0,,https://www.humana.com
 29,blue-cross-blue-shield,Blue Cross Blue Shield,,,,https://www.bluecrossmn.com/
-31,xcel-energy,Xcel Energy,4.0,406.0,,https://www.xcelenergy.com/
-32,minnesota-lottery,Minnesota Lottery,5.0,502.0,,https://www.mnlottery.com/
-33,allina-aetna,Allina Health Aetna,4.0,407.0,,https://www.allinahealthaetna.com/
+30,giant-slide,Giant Slide,,,,https://business.nicainc.org/list/member/giant-ride-inc-roseville-651-592-2342-2586
+31,xcel-energy,Xcel Energy,3.0,325.0,,https://www.xcelenergy.com/
+32,minnesota-lottery,Minnesota Lottery,4.0,435.0,,https://www.mnlottery.com/
+33,allina-aetna,Allina Health Aetna,4.0,410.0,,https://www.allinahealthaetna.com/
 34,john-deere,John Deere,,,,https://www.deere.com/
-35,minnesota-rusco,Minnesota Rusco,5.0,505.0,,http://minnesotarusco.com/
-36,cargill,Cargill,5.0,507.0,,https://www.cargill.com/
-37,minnesota-corn-growers,Minnesota Corn Growers,5.0,508.0,,http://www.mncorn.org/
-38,great-river-energy,Great River Energy,5.0,509.0,,https://greatriverenergy.com/
-39,mcdonalds,McDonalds,5.0,510.0,,https://www.mcdonalds.com/
-41,midwest-dairy-association-of-minnesota,Midwest Dairy,6.0,604.0,,https://www.midwestdairy.com/
-43,giggles-campfire-grill,Giggles' Campfire Grill,6.0,606.0,,http://www.gigglescampfiregrill.com/
-44,minnesota-farmers-union,Minnesota Farmers Union,6.0,607.0,,https://www.mfu.org/
-46,dragnfly-wireless,DragNFly Wireless,6.0,602.0,,http://dragnfly.com/
-47,paddle-north,Paddle North,3.0,304.0,,https://paddlenorth.com/
-49,star-tribune,Star Tribune,6.0,603.0,,http://www.startribune.com/
-52,device-pitstop,Device Pitstop,6.0,601.0,,https://www.devicepitstop.com/
-54,explore-minnesota,Explore Minnesota,6.0,610.0,,https://www.exploreminnesota.com/
-55,kwik-trip,Kwik Trip,5.0,512.0,,https://www.kwiktrip.com/
+35,minnesota-rusco,Minnesota Rusco,3.0,350.0,,http://minnesotarusco.com/
+36,cargill,Cargill,4.0,445.0,,https://www.cargill.com/
+37,minnesota-corn-growers,Minnesota Corn Growers,4.0,450.0,,http://www.mncorn.org/
+38,great-river-energy,Great River Energy,,,,https://greatriverenergy.com/
+39,by-the-yard,By The Yard,,,,https://bytheyard.net/
+40,united-healthcare,United Healthcare,3.0,335.0,,https://www.uhc.com/
+41,midwest-dairy-association-of-minnesota,Midwest Dairy,,,,https://www.midwestdairy.com/
+43,giggles-campfire-grill,Giggles' Campfire Grill,,,,http://www.gigglescampfiregrill.com/
+44,minnesota-farmers-union,Minnesota Farmers Union,,,,https://www.mfu.org/
+46,dragnfly-wireless,DragNFly Wireless,5.0,505.0,,http://dragnfly.com/
+47,paddle-north,Paddle North,3.0,315.0,,https://paddlenorth.com/
+49,star-tribune,Star Tribune,5.0,510.0,,http://www.startribune.com/
+52,device-pitstop,Device Pitstop,,,,https://www.devicepitstop.com/
+53,human-touch,Human Touch,4.0,400.0,,https://www.humantouch.com/
+54,explore-minnesota,Explore Minnesota,,,,https://www.exploreminnesota.com/
+55,kwik-trip,Kwik Trip,3.0,305.0,,https://www.kwiktrip.com/
+56,t-mobile,T-Mobile,4.0,405.0,,https://www.t-mobile.com/
+57,mn-senior-linkage-line,MN Senior Linkage Line,4.0,430.0,,https://mn.gov/senior-linkage-line/
+58,usda,USDA,,,,https://www.aphis.usda.gov/aphis/resources/pests-diseases/asf/?utm_medium=referral&utm_source=MNStateFair&utm_content=MN-State-Fair&utm_campaign=cm-african-swine-fever-2022
+59,united-rentals,United Rentals,5.0,515.0,,https://www.unitedrentals.com/
+60,the-current,The Current,,,,https://www.thecurrent.org/
+61,dari,Dari,,,,https://www.realdari.com/
+62,tc-running,TC Running Company,,,,https://tcrunningco.com/
+63,sun-country-airlines,Sun Country Airlines,3.0,342.0,,"
+https://www.suncountry.com/"
+64,paintcare,PaintCare,4.0,432.0,,https://www.paintcare.org/
+65,mall-of-america,Mall of America,4.0,433.0,,https://www.mallofamerica.com/
+66,mn-alliance-with-youth,Minnesota Alliance with Youth,6.0,600.0,,https://mnyouth.net/
+67,northstar-bus-lines,Northstar Bus Lines,6.0,605.0,,https://www.northstarbuslines.com/
+68,ausm,Autism Society of Minnesota,6.0,610.0,,https://ausm.org/
+69,can-do-canines,Can Do Canines,6.0,615.0,,https://candocanines.org/
+70,metro-wide-911-psaps,Metro-wide 911 PSAPs,6.0,620.0,,https://dps.mn.gov/divisions/ecn/programs/911/Pages/current-state-system.aspx
+71,people-for-pseo,People for PSEO,6.0,625.0,,https://www.peopleforpseo.org/
+72,save-the-boundary-waters,Save the Boundary Waters,6.0,630.0,,https://www.savetheboundarywaters.org/
+73,shiftmed,ShiftMed,6.0,635.0,,https://www.shiftmed.com/
+74,tsa,Transportation Security Administration (TSA),6.0,640.0,,https://www.tsa.gov/
+75,momentum-refresh,Momentum refresh,5.0,503.0,,https://momentumrefresh.org/
+76,mintahoe,Mintahoe Catering & Events,5.0,516.0,,https://www.mintahoe.com/
+77,samsung,Samsung,3.0,351.0,,https://www.samsung.com/us/
